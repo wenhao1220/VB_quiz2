@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\視窗程式\quiz\quiz\bin\Debug\quiz.exe.config
+C:\Users\user\Desktop\視窗程式\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\user\Desktop\視窗程式\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\user\Desktop\視窗程式\quiz\quiz\bin\Debug\quiz.xml
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.Form1.resources
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.Resources.resources
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.exe
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.xml
+C:\Users\user\Desktop\視窗程式\quiz\quiz\obj\Debug\quiz.pdb
